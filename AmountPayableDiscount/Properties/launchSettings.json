@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AmountPayableDiscount": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

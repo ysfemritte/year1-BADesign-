@@ -1,0 +1,16 @@
+C:\Users\Yusuf\OneDrive\BADev\Week1\AmountPayableDiscount\bin\Debug\net5.0\AmountPayableDiscount.exe
+C:\Users\Yusuf\OneDrive\BADev\Week1\AmountPayableDiscount\bin\Debug\net5.0\AmountPayableDiscount.deps.json
+C:\Users\Yusuf\OneDrive\BADev\Week1\AmountPayableDiscount\bin\Debug\net5.0\AmountPayableDiscount.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\BADev\Week1\AmountPayableDiscount\bin\Debug\net5.0\AmountPayableDiscount.runtimeconfig.dev.json
+C:\Users\Yusuf\OneDrive\BADev\Week1\AmountPayableDiscount\bin\Debug\net5.0\AmountPayableDiscount.dll
+C:\Users\Yusuf\OneDrive\BADev\Week1\AmountPayableDiscount\bin\Debug\net5.0\ref\AmountPayableDiscount.dll
+C:\Users\Yusuf\OneDrive\BADev\Week1\AmountPayableDiscount\bin\Debug\net5.0\AmountPayableDiscount.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week1\AmountPayableDiscount\obj\Debug\net5.0\AmountPayableDiscount.csproj.AssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADev\Week1\AmountPayableDiscount\obj\Debug\net5.0\AmountPayableDiscount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\OneDrive\BADev\Week1\AmountPayableDiscount\obj\Debug\net5.0\AmountPayableDiscount.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week1\AmountPayableDiscount\obj\Debug\net5.0\AmountPayableDiscount.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\BADev\Week1\AmountPayableDiscount\obj\Debug\net5.0\AmountPayableDiscount.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week1\AmountPayableDiscount\obj\Debug\net5.0\AmountPayableDiscount.dll
+C:\Users\Yusuf\OneDrive\BADev\Week1\AmountPayableDiscount\obj\Debug\net5.0\ref\AmountPayableDiscount.dll
+C:\Users\Yusuf\OneDrive\BADev\Week1\AmountPayableDiscount\obj\Debug\net5.0\AmountPayableDiscount.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week1\AmountPayableDiscount\obj\Debug\net5.0\AmountPayableDiscount.genruntimeconfig.cache
